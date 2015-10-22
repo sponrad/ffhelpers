@@ -25,9 +25,9 @@ for row in enumerate(crdict, start=1):
     referencename = generateName(row[1])
     itemtype = "Non-Consumable"
     description = "Flash Force pattern"
-    screenshotpath = "/Users/conradframe/Desktop/purchaseExample.png"
-    effectivedate = "2015-11-01"
-    enddate = "None"
+    screenshotpath = "/Users/conradframe/Desktop/ffimages/purchaseExample.png"
+    effectivedate = "2015-10-01"
+    enddate = "2025-11-01"
     notes = ""
     hostedpath = ""
 
