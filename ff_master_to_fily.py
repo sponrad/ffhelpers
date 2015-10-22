@@ -22,11 +22,10 @@ struct StoreData{
 
 print("Processing data...")
 data = ''
-for row in cr:
-    data += str(row).replace('"', '\"').replace("'",'"') + ",\n"
+for row in enumerate(cr):
+    if not row[0] == 0:
+        data += str(row[1]).replace('"', '\"').replace("'",'"') + ",\n"
 
-
-data.pop(0) #first row contains the column titles, remove that
 
 #print data
 print("done")

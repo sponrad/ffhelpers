@@ -21,7 +21,7 @@ print("Processing data...")
 data = ""
 for row in enumerate(crdict, start=1):
     sku = "smarterappsflashforce"
-    productid = row[1]["productid"]
+    productid = row[1]["productid"].strip()  #no trailing or leading spaces
     referencename = generateName(row[1])
     itemtype = "Non-Consumable"
     description = "Flash Force pattern"
