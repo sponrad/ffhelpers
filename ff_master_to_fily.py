@@ -25,6 +25,9 @@ data = ''
 for row in cr:
     data += str(row).replace('"', '\"').replace("'",'"') + ",\n"
 
+
+data.pop(0) #first row contains the column titles, remove that
+
 #print data
 print("done")
 f.write(data)
