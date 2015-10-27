@@ -26,9 +26,9 @@ for row in enumerate(crdict, start=1):
     itemtype = "Non-Consumable"
     description = "Flash Force pattern"
     screenshotpath = "/Users/conradframe/Desktop/ffimages/purchaseExample.png"
-    effectivedate = "2015-10-22"
-    enddate = "2025-11-01"
-    notes = ""
+    effectivedate = "Now"
+    enddate = "None"
+    notes = "Light pattern and timing combination for use in the Flash Force app"
     hostedpath = ""
 
     itemorder = [sku, productid, referencename, itemtype, "yes", 1, referencename, description, screenshotpath, effectivedate, enddate, notes, hostedpath]
