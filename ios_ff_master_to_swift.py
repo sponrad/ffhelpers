@@ -24,7 +24,7 @@ print("Processing data...")
 data = ''
 for row in enumerate(cr):
     if not row[0] == 0:
-        data += str(row[1]).replace('"', '\"').replace("'",'"') + ",\n"
+        data += unicode(str(row[1]).replace('"', '\"').replace("'",'"') + ",\n", "utf-8").encode('unicode_escape')
 
 
 #print data
