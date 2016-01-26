@@ -31,7 +31,7 @@ for row in enumerate(crdict, start=1):
     autotranslate = "false"
     localetitledescription = "en_US; "+generateName(row[1]) + "; Flash Force Pattern"
     autofill = "true"
-    countryprice = "US; "+getPrice(row[1])
+    countryprice = getPrice(row[1])
 
     #itemorder = [sku, productid, referencename, itemtype, "yes", 1, referencename, description, screenshotpath, effectivedate, enddate, notes, hostedpath]
     itemorder = [product_id, publish_state, purchase_type, autotranslate, localetitledescription, autofill, countryprice]
