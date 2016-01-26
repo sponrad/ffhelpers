@@ -4,13 +4,13 @@ import json
 def generateName(row):
     temp = [
         row['category'],
+        row['alternate'],
         row['name'],
-        row['alternate']
         ]
-    return " ".join(temp)
+    return " ".join(temp)[0:54]
 
 def getPrice(row):
-    return str( int( float(row["price"])*1000000 ) )
+    return int( float(row["price"])*1000000 )
 
 
 crdict = csv.DictReader(open("ffinput.csv","rb"))
@@ -31,12 +31,15 @@ for row in enumerate(crdict, start=1):
     autotranslate = "false"
     localetitledescription = "en_US; "+generateName(row[1]) + "; Flash Force Pattern"
     autofill = "true"
-    countryprice = getPrice(row[1])
+    countryprice = str(getPrice(row[1]))
 
     #itemorder = [sku, productid, referencename, itemtype, "yes", 1, referencename, description, screenshotpath, effectivedate, enddate, notes, hostedpath]
     itemorder = [product_id, publish_state, purchase_type, autotranslate, localetitledescription, autofill, countryprice]
-    
-    data.append(itemorder)
+
+    if getPrice(row[1]) > 1:
+        data.append(itemorder)
+    else:
+        print countryprice
 
 a.writerows(data)
 f.close()
