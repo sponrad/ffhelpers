@@ -544,8 +544,25 @@ com.flashforceapp.switzerland,published,managed_by_android,false,en_US; National
 com.flashforceapp.turkey,published,managed_by_android,false,en_US; National Soccer ⚽ Home Turkey 🇹🇷; Flash Force Pattern,true,990000
 com.flashforceapp.ukraine,published,managed_by_android,false,en_US; National Soccer ⚽ Home Ukraine 🇺🇦; Flash Force Pattern,true,990000
 com.flashforceapp.wales,published,managed_by_android,false,en_US; National Soccer ⚽ Home Wales; Flash Force Pattern,true,990000
+com.flashforceapp.angershome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Angers; Flash Force Pattern,true,990000
+com.flashforceapp.bastiahome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Bastia; Flash Force Pattern,true,990000
+com.flashforceapp.bordeauxhome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Bordeaux; Flash Force Pattern,true,990000
+com.flashforceapp.lemanshome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Lemans; Flash Force Pattern,true,990000
+com.flashforceapp.marseillehome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Marseille; Flash Force Pattern,true,990000
+com.flashforceapp.monacohome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Monaco; Flash Force Pattern,true,990000
+com.flashforceapp.nancyhome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Nancy; Flash Force Pattern,true,990000
+com.flashforceapp.nanteshome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Nantes; Flash Force Pattern,true,990000
+com.flashforceapp.nicehome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Nice; Flash Force Pattern,true,990000
+com.flashforceapp.olymlyonnaishome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Olym Lyonnais; Flash Force Pattern,true,990000
+com.flashforceapp.psghome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home PSG; Flash Force Pattern,true,990000
+com.flashforceapp.renneshome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Rennes; Flash Force Pattern,true,990000
+com.flashforceapp.stetiennehome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home St Etienne; Flash Force Pattern,true,990000
+com.flashforceapp.toulousehome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Toulouse; Flash Force Pattern,true,990000
+com.flashforceapp.valencienneshome,published,managed_by_android,false,en_US; Club Soccer FR 🇫🇷 Home Valenciennes; Flash Force Pattern,true,990000
 com.flashforceapp.americahome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home America; Flash Force Pattern,true,990000
 com.flashforceapp.americaaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away America; Flash Force Pattern,true,990000
+com.flashforceapp.atlantehome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Atlante; Flash Force Pattern,true,990000
+com.flashforceapp.chiapashome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Chiapas; Flash Force Pattern,true,990000
 com.flashforceapp.cruzazulhome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Cruz Azul; Flash Force Pattern,true,990000
 com.flashforceapp.cruzazulaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away Cruz Azul; Flash Force Pattern,true,990000
 com.flashforceapp.c.d.guadalajarahome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home C.D. Guadalajara; Flash Force Pattern,true,990000
@@ -554,6 +571,8 @@ com.flashforceapp.leonhome,published,managed_by_android,false,en_US; Club Soccer
 com.flashforceapp.leonaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away Leon; Flash Force Pattern,true,990000
 com.flashforceapp.monterreyhome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Monterrey; Flash Force Pattern,true,990000
 com.flashforceapp.monterreyaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away Monterrey; Flash Force Pattern,true,990000
+com.flashforceapp.moreliahome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Morelia; Flash Force Pattern,true,990000
+com.flashforceapp.pueblahome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Puebla; Flash Force Pattern,true,990000
 com.flashforceapp.pumashome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Pumas; Flash Force Pattern,true,990000
 com.flashforceapp.pumasaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away Pumas; Flash Force Pattern,true,990000
 com.flashforceapp.tigresuanlhome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Tigres UANL; Flash Force Pattern,true,990000
@@ -562,6 +581,7 @@ com.flashforceapp.tijuanahome,published,managed_by_android,false,en_US; Club Soc
 com.flashforceapp.tijuanaaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away Tijuana; Flash Force Pattern,true,990000
 com.flashforceapp.tolucahome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Toluca; Flash Force Pattern,true,990000
 com.flashforceapp.tolucaaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away Toluca; Flash Force Pattern,true,990000
+com.flashforceapp.unamhome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home UNAM; Flash Force Pattern,true,990000
 com.flashforceapp.veracruzhome,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Home Veracruz; Flash Force Pattern,true,990000
 com.flashforceapp.veracruzaway,published,managed_by_android,false,en_US; Club Soccer MX 🇲🇽 Away Veracruz; Flash Force Pattern,true,990000
 com.flashforceapp.borussiadortmundhome,published,managed_by_android,false,en_US; Club Soccer DE 🇩🇪 Home Borussia Dortmund; Flash Force Pattern,true,990000
@@ -590,25 +610,38 @@ com.flashforceapp.palermohome,published,managed_by_android,false,en_US; Club Soc
 com.flashforceapp.palermoaway,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Away Palermo; Flash Force Pattern,true,990000
 com.flashforceapp.a.c.milanhome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home A.C. Milan; Flash Force Pattern,true,990000
 com.flashforceapp.a.c.milanaway,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Away A.C. Milan; Flash Force Pattern,true,990000
+com.flashforceapp.frosinonehome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Frosinone; Flash Force Pattern,true,990000
+com.flashforceapp.genoahome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Genoa; Flash Force Pattern,true,990000
 com.flashforceapp.laziohome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Lazio; Flash Force Pattern,true,990000
 com.flashforceapp.lazioaway,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Away Lazio; Flash Force Pattern,true,990000
 com.flashforceapp.napolihome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Napoli; Flash Force Pattern,true,990000
 com.flashforceapp.napoliaway,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Away Napoli; Flash Force Pattern,true,990000
 com.flashforceapp.juventushome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Juventus; Flash Force Pattern,true,990000
 com.flashforceapp.juventusaway,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Away Juventus; Flash Force Pattern,true,990000
+com.flashforceapp.parmahome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Parma; Flash Force Pattern,true,990000
+com.flashforceapp.torinohome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Torino; Flash Force Pattern,true,990000
+com.flashforceapp.udinesehome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Udinese; Flash Force Pattern,true,990000
 com.flashforceapp.bolognahome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Bologna; Flash Force Pattern,true,990000
 com.flashforceapp.bolognaaway,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Away Bologna; Flash Force Pattern,true,990000
+com.flashforceapp.veronahome,published,managed_by_android,false,en_US; Club Soccer IT 🇮🇹 Home Verona; Flash Force Pattern,true,990000
+com.flashforceapp.atleticomadridhome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Atletico Madrid; Flash Force Pattern,true,990000
 com.flashforceapp.barcelonahome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Barcelona; Flash Force Pattern,true,990000
 com.flashforceapp.barcelonaaway,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Away Barcelona; Flash Force Pattern,true,990000
+com.flashforceapp.getafehome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Getafe; Flash Force Pattern,true,990000
 com.flashforceapp.villarealhome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Villareal; Flash Force Pattern,true,990000
 com.flashforceapp.celtadevigoaway,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Away Celta de Vigo; Flash Force Pattern,true,990000
 com.flashforceapp.espanyolhome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Espanyol; Flash Force Pattern,true,990000
 com.flashforceapp.espanyolaway,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Away Espanyol; Flash Force Pattern,true,990000
 com.flashforceapp.deportivolacorunahome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Deportivo La Coruna; Flash Force Pattern,true,990000
 com.flashforceapp.deportivolacorunaaway,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Away Deportivo La Coruna; Flash Force Pattern,true,990000
+com.flashforceapp.sevillahome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Sevilla; Flash Force Pattern,true,990000
 com.flashforceapp.sportinggijonhome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Sporting Gijon; Flash Force Pattern,true,990000
 com.flashforceapp.sportinggijonaway,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Away Sporting Gijon; Flash Force Pattern,true,990000
+com.flashforceapp.rayovallecanohome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Rayo Vallecano; Flash Force Pattern,true,990000
 com.flashforceapp.realbetishome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Real Betis; Flash Force Pattern,true,990000
+com.flashforceapp.realmadridhome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Real Madrid; Flash Force Pattern,true,990000
+com.flashforceapp.valladolidhome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Valladolid; Flash Force Pattern,true,990000
+com.flashforceapp.valenciahome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Valencia; Flash Force Pattern,true,990000
 com.flashforceapp.athleticbilbaohome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Athletic Bilbao; Flash Force Pattern,true,990000
 com.flashforceapp.athleticbilbaoaway,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Away Athletic Bilbao; Flash Force Pattern,true,990000
 com.flashforceapp.realsociedadhome,published,managed_by_android,false,en_US; Club Soccer ES 🇪🇸 Home Real Sociedad; Flash Force Pattern,true,990000
@@ -627,20 +660,29 @@ com.flashforceapp.sepalmeirashome,published,managed_by_android,false,en_US; Club
 com.flashforceapp.sepalmeirasaway,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Away SE Palmeiras; Flash Force Pattern,true,990000
 com.flashforceapp.scinternacionalhome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home SC Internacional; Flash Force Pattern,true,990000
 com.flashforceapp.scinternacionalaway,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Away SC Internacional; Flash Force Pattern,true,990000
-com.flashforceapp.santosfchome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home Santos FC; Flash Force Pattern,true,990000
-com.flashforceapp.santosfcaway,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Away Santos FC; Flash Force Pattern,true,990000
 com.flashforceapp.saopaulofchome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home Sao Paulo FC; Flash Force Pattern,true,990000
 com.flashforceapp.saopaulofcaway,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Away Sao Paulo FC; Flash Force Pattern,true,990000
+com.flashforceapp.botafogohome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home Botafogo; Flash Force Pattern,true,990000
+com.flashforceapp.corinthianshome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home Corinthians; Flash Force Pattern,true,990000
+com.flashforceapp.coritibahome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home Coritiba; Flash Force Pattern,true,990000
+com.flashforceapp.fortalezahome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home Fortaleza; Flash Force Pattern,true,990000
+com.flashforceapp.guaranihome,published,managed_by_android,false,en_US; Club Soccer BR 🇧🇷 Home Guarani; Flash Force Pattern,true,990000
+com.flashforceapp.arsenaldesarandihome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Arsenal de Sarandi; Flash Force Pattern,true,990000
+com.flashforceapp.belgranohome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Belgrano; Flash Force Pattern,true,990000
 com.flashforceapp.bocajuniorshome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Boca Juniors; Flash Force Pattern,true,990000
 com.flashforceapp.bocajuniorsaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away Boca Juniors; Flash Force Pattern,true,990000
+com.flashforceapp.godoycruzhome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Godoy Cruz; Flash Force Pattern,true,990000
+com.flashforceapp.huracanhome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Huracan; Flash Force Pattern,true,990000
 com.flashforceapp.sanlorenzohome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home San Lorenzo; Flash Force Pattern,true,990000
 com.flashforceapp.sanlorenzoaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away San Lorenzo; Flash Force Pattern,true,990000
+com.flashforceapp.sanmartinsjhome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home San Martin SJ; Flash Force Pattern,true,990000
 com.flashforceapp.rosariocentralhome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Rosario Central; Flash Force Pattern,true,990000
 com.flashforceapp.rosariocentralaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away Rosario Central; Flash Force Pattern,true,990000
 com.flashforceapp.independientehome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Independiente; Flash Force Pattern,true,990000
 com.flashforceapp.independienteaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away Independiente; Flash Force Pattern,true,990000
 com.flashforceapp.racingclubhome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Racing Club; Flash Force Pattern,true,990000
 com.flashforceapp.racingclubaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away Racing Club; Flash Force Pattern,true,990000
+com.flashforceapp.colonhome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Colon; Flash Force Pattern,true,990000
 com.flashforceapp.riverplatehome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home River Plate; Flash Force Pattern,true,990000
 com.flashforceapp.riverplateaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away River Plate; Flash Force Pattern,true,990000
 com.flashforceapp.estudianteslaplatahome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Estudiantes La Plata; Flash Force Pattern,true,990000
@@ -649,8 +691,36 @@ com.flashforceapp.newellsoldboyshome,published,managed_by_android,false,en_US; C
 com.flashforceapp.newellsoldboysaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away Newells Old Boys; Flash Force Pattern,true,990000
 com.flashforceapp.argentinosjuniorshome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Argentinos Juniors; Flash Force Pattern,true,990000
 com.flashforceapp.argentinosjuniorsaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away Argentinos Juniors; Flash Force Pattern,true,990000
+com.flashforceapp.tigrehome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Tigre ; Flash Force Pattern,true,990000
 com.flashforceapp.velezsarfieldhome,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Home Velez Sarfield; Flash Force Pattern,true,990000
 com.flashforceapp.velezsarfieldaway,published,managed_by_android,false,en_US; Club Soccer AR 🇦🇷 Away Velez Sarfield; Flash Force Pattern,true,990000
+com.flashforceapp.arsenalhome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Arsenal; Flash Force Pattern,true,990000
+com.flashforceapp.chelseahome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Chelsea; Flash Force Pattern,true,990000
+com.flashforceapp.leicesterhome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Leicester; Flash Force Pattern,true,990000
+com.flashforceapp.liverpoolhome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Liverpool; Flash Force Pattern,true,990000
+com.flashforceapp.manchestercityhome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Manchester City; Flash Force Pattern,true,990000
+com.flashforceapp.manchesterunitedhome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Manchester United; Flash Force Pattern,true,990000
+com.flashforceapp.newcastlehome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Newcastle; Flash Force Pattern,true,990000
+com.flashforceapp.tottenhamhome,published,managed_by_android,false,en_US; Club Soccer UK 🇬🇧 Home Tottenham; Flash Force Pattern,true,990000
+com.flashforceapp.chicagofirehome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Chicago Fire; Flash Force Pattern,true,990000
+com.flashforceapp.coloradorapidshome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Colorado Rapids; Flash Force Pattern,true,990000
+com.flashforceapp.columbuscrewhome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Columbus Crew; Flash Force Pattern,true,990000
+com.flashforceapp.dcunitedhome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home DC United; Flash Force Pattern,true,990000
+com.flashforceapp.fcdallashome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home FC Dallas; Flash Force Pattern,true,990000
+com.flashforceapp.houstondynamohome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Houston Dynamo; Flash Force Pattern,true,990000
+com.flashforceapp.kansascitysportinghome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Kansas City Sporting; Flash Force Pattern,true,990000
+com.flashforceapp.lagalaxyhome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home LA Galaxy; Flash Force Pattern,true,990000
+com.flashforceapp.nymetrostarshome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home NY MetroStars; Flash Force Pattern,true,990000
+com.flashforceapp.montrealimpacthome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Montreal Impact; Flash Force Pattern,true,990000
+com.flashforceapp.newenglandrevolutionhome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home New England Revolution; Flash Force Pattern,true,990000
+com.flashforceapp.newyorkredbullshome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home New York Red Bulls; Flash Force Pattern,true,990000
+com.flashforceapp.philadelphiaunionhome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Philadelphia Union; Flash Force Pattern,true,990000
+com.flashforceapp.portlandtimbershome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Portland Timbers; Flash Force Pattern,true,990000
+com.flashforceapp.realsaltlakehome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Real Salt Lake; Flash Force Pattern,true,990000
+com.flashforceapp.sanjoseearthquakeshome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home San Jose Earthquakes; Flash Force Pattern,true,990000
+com.flashforceapp.seattlesoundershome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Seattle Sounders; Flash Force Pattern,true,990000
+com.flashforceapp.torontohome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Toronto; Flash Force Pattern,true,990000
+com.flashforceapp.vancouverwhitecapshome,published,managed_by_android,false,en_US; Club Soccer USA 🇺🇸 Home Vancouver Whitecaps; Flash Force Pattern,true,990000
 com.flashforceapp.democraticpartystandard,published,managed_by_android,false,en_US; USA Causes 🇺🇸 Standard Democratic Party; Flash Force Pattern,true,990000
 com.flashforceapp.republicanpartystandard,published,managed_by_android,false,en_US; USA Causes 🇺🇸 Standard Republican Party; Flash Force Pattern,true,990000
 com.flashforceapp.libertarianpartystandard,published,managed_by_android,false,en_US; USA Causes 🇺🇸 Standard Libertarian Party; Flash Force Pattern,true,990000

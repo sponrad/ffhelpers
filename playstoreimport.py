@@ -15,7 +15,7 @@ def getPrice(row):
 
 crdict = csv.DictReader(open("ffinput.csv","rb"))
 print("Opening file...")
-f = open('androidimport.csv', 'w')
+f = open('playstoreimport.csv', 'w')
 
 a = csv.writer(f)
 

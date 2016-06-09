@@ -11,7 +11,7 @@ def generateName(row):
 
 crdict = csv.DictReader(open("ffinput.csv","rb"))
 print("Opening file...")
-f = open('FFAppMassImport.txt', 'w')
+f = open('appstoreimport.txt', 'w')
 
 f.write("""SKU	Product ID	Reference Name	Type	Cleared For Sale	Wholesale Price Tier	Displayed Name	Description	Screenshot Path	Effective Date	End Date	Review Notes	Hosted Content Path
 """)
