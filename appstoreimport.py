@@ -1,11 +1,12 @@
 import csv
 import json
+import re, string
 
 def generateName(row):
     temp = [
-        row['category'],
-        row['name'],
-        row['alternate']
+        " ".join( re.compile('\w+').findall(row['category']) ),
+        " ".join( re.compile('\w+').findall(row['name']) ),
+        " ".join( re.compile('\w+').findall(row['alternate']) ),
         ]
     return " ".join(temp)
 
