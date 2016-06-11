@@ -5,6 +5,7 @@ import re, string
 def generateName(row):
     temp = [
         " ".join( re.compile('\w+').findall(row['category']) ),
+        row['sport_special'],
         " ".join( re.compile('\w+').findall(row['name']) ),
         " ".join( re.compile('\w+').findall(row['alternate']) ),
         ]
